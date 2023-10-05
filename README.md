@@ -1,4 +1,5 @@
-# Phuire is the Prismatic Unified Fire of Science that is Great the Sums of its Parts
+# Phuire
+### The Prismatic Unified Fire of Science that is Greater the Sums of its Parts
 This organization is currently preparing to build out and release a new scientific research platform to reinforce safety through the new technological singularity. By making such mundane via demonstration of the complexity of scales that, "sets of concepts" affords. In contrast to our current reliance on generalized constructs that cannot be decomposed to the sum of their parts. This was the result of a long series of unintended discoveries over the founders self studied career by choice.
 
 ## Findings
