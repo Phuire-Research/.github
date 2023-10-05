@@ -12,4 +12,5 @@ No matter how complicated the world gets. It would be difficult to find a simple
 This technological singularity that is Artificial Intelligence is not the first humanity has experienced. Looking back we can note pivots in human understanding such as the printing press, industrial revolution, and internet as their own singularities that changed the fabric of society. And ultimately resulted in a new complexity of scales that brought new benefits and altered the rules of civilization to afford for the increase of productivity that these innovations created. That productivity is merely energy or entropy as it is the description of some movement.
 
 ## Public Releases
+![STRX](https://github.com/Phuire-Research/STRX/blob/main/STRX.png?raw=true)
 [STRX](https://github.com/Phuire-Research/STRX) - A Nodejs Graph Programming Framework and first implementation of the Unified Turing Machine.
