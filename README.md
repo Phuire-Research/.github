@@ -13,4 +13,5 @@ This technological singularity that is Artificial Intelligence is not the first 
 
 ## Public Releases
 ![STRX](https://github.com/Phuire-Research/STRX/blob/main/STRX.png?raw=true)
+
 [STRX](https://github.com/Phuire-Research/STRX) - A Nodejs Graph Programming Framework and first implementation of the Unified Turing Machine.
