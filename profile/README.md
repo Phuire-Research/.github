@@ -1,4 +1,4 @@
-## PHUIRE - The Prismatic Unified Fire of Science and is Greater than the Sums of its Parts
+## PhuirE - The Prismatic Unified Fire of Science and is Greater than the Sums of its Parts
 This organization is currently preparing to build out and release a scientific research platform to reinforce safety of Ai via the creation of ABI.
 ABI stands for **"Autonomous Baseline Intelligence,"** and in contrast is a plain text representation of higher order reasoning. 
 While demonstrating what formalization would be beyond a potential singularity, by mundane demonstration of that seemingly unknowable complexity.
