@@ -25,6 +25,6 @@ This technological singularity that Artificial Intelligence represents is not th
 
 
 ## Public Releases
-![STRX](https://github.com/Phuire-Research/STRX/blob/main/STRX.png?raw=true)
+![Stratimux](https://github.com/Phuire-Research/Stratimux/blob/main/Stratimux.png?raw=true)
 
-[STRX](https://github.com/Phuire-Research/STRX) - A Nodejs Graph Programming Framework and first implementation of the Unified Turing Machine.
+[Stratimux](https://github.com/Phuire-Research/STRX) - A Nodejs Graph Programming Framework and first implementation of the Unified Turing Machine.
