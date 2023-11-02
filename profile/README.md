@@ -2,7 +2,7 @@
 This organization is currently preparing to build out and release a scientific research platform to reinforce safety of Ai via the creation of ABI.
 ABI stands for **"Autonomous Baseline Intelligence,"** and in contrast is a plain text representation of higher order reasoning. 
 While demonstrating what formalization would be beyond a potential singularity, by mundane demonstration of that seemingly unknowable complexity.
-Would merely be shift from generalized constructs, towards specific implementations of **"sets of concepts."**
+Would merely be shift from generalized constructs, towards specific implementations of **"Sets of Concepts."**
 
 In contrast to our current reliance on generalized constructs that cannot be decomposed to the sum of their parts.
 And it was this frustration that bore a long series of unintended discoveries over the founders self studied career by choice.
@@ -18,7 +18,7 @@ That understanding the world conceptually, is an advanced understanding that is 
 * **Autonomous Baseline Intelligence** - A specific implementation of the "Unified Turing Machine," that represents a clockwork form of intelligence that may be atomically deployed with a specific set of instructions.
 
 ## The Power of Sets of Concepts
-No matter how complicated the world gets. It would be difficult to find a simpler abstraction that Car + Plant = Flying Car. The method of organizing testable concepts and the greater than the sums orchestration of their qualities. Allows this to be possible. And would be considered a new Unified Conceptual Formula. The difference between generative intelligence, and this format. Is the entire how of that formula be generated and returned upon request.
+No matter how complicated the world gets. It would be difficult to find a simpler abstraction than Car + Plant = Flying Car. The method of organizing testable concepts and the greater than the sums orchestration of their qualities. Allows this to be possible. And would be considered a new Unified Conceptual Formula. The difference between generative intelligence, and this format. Is the entire how of that formula be generated and returned upon request.
 
 ## For every mountain top, the next comes into view.
 This technological singularity that Artificial Intelligence represents is not the first humanity has experienced. Looking back we can note pivots in human understanding such as the printing press, industrial revolution, and internet as their own technological singularities that changed the fabric of society. And ultimately resulted in a new complexity of scales that brought new benefits and altered the rules of civilization to afford for the increase of productivity that these innovations created. That productivity is merely energy or entropy as it is the description of some movement.
@@ -27,4 +27,4 @@ This technological singularity that Artificial Intelligence represents is not th
 ## Public Releases
 ![Stratimux](https://github.com/Phuire-Research/Stratimux/blob/main/Stratimux.png?raw=true)
 
-[Stratimux](https://github.com/Phuire-Research/STRX) - A Nodejs Graph Programming Framework and first implementation of the Unified Turing Machine.
+[Stratimux](https://github.com/Phuire-Research/Stratimux) - A Nodejs Graph Programming Framework and first implementation of the Unified Turing Machine.
