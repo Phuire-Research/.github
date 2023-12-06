@@ -28,3 +28,5 @@ This technological singularity that Artificial Intelligence represents is not th
 ![Stratimux](https://github.com/Phuire-Research/Stratimux/blob/main/Stratimux.png?raw=true)
 
 [Stratimux](https://github.com/Phuire-Research/Stratimux) - A Nodejs Graph Programming Framework and first implementation of the Unified Turing Machine.
+[logixUX](https://github.com/Phuire-Research/logixUX) - Stratimux Sidekick Application and MVP of a new User Interface Concept.
+[PURF](https://github.com/Phuire-Research/PURF) - White Paper for the safe recursive improvement of AI and current mission of this research organization.
