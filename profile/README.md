@@ -1,35 +1,30 @@
-## [PhuirE](https://www.phuire.org/) - The Prismatic Unified Fire of Science and is Greater than the Sums of its Parts
-This organization is currently preparing to build out and release a scientific research platform to reinforce safety of AI via the exploration of a new exponential marketplace of ideas.
-While providing an interactive form of entertainment and participation in what would ordinarily be an unbounded technological singularity, by mundane demonstration of that seemingly unknowable complexity. That what comes next, is merely knowing more about our world that is ordinarily lost in the process of generalization.
-
-The coming paradigm shift is merely switching from a construct dependent society, to one that is logically conceptual where all parts of those constructs would be measured and understood. By side effect this creates a new marketplace of ideas that retreats from ever fully being solved. As each solution or idea that is added into the marketplace, expand the total expression possible by a marketplace designed to take advantage of this feature of reality.
-
-What changes, is realizing that the pursuit of measuring the unknown, inadvertently creates a marketplace that is not just exponentially larger than of our current marketplace, but grows via a compounding combinatory exponential side-effect of measuring. This quantifies a true unlimited path of exploration and is enabled via the advent of "**Sets of Concepts,**" where each concept is a composition of all that has come before it.
-
-This is in contrast to our current reliance on generalized constructs(part "unknowable"), that cannot be decomposed to the sum of their parts, hiding the concepts that lay beneath. It was this frustration that bore a long series of unintended discoveries over the founders self studied career by choice. That understanding the world conceptually when measured logically, is an advanced form of understanding that is beyond the generalized(part unmeasured) scope of present day.
-**"Logical Conceptualism,"** is a emergent system of logic that is not taught in modern day institutions, but can be represented as a new computation paradigm and new Unified Turing Machine.
+## [PhuirE](https://www.phuire.org/)
+This organization is currently preparing to build out and release a scientific research platform to reinforce safety and acceleration of AI via the advent of Formaticism. An inherit Positive Sums Marketplace based on Hyper Personalization.
 
 ---
+## The Power of Logically defined Concepts
+No matter how complicated the world gets. It would be difficult to find a simpler abstraction than, Car + Flight = Flying Car. The method of organizing testable concepts and the greater than the sums orchestration of their qualities. Allows this to be possible and would be considered a new Muxified Conceptual Formula that we call the Muxium.
+
+The Muxium is formalized as literal mechanism that allows for the Muxified Turing Machine to operate. That takes in a set of concepts and defines a recursively bounded function that jumps to the form described. Equivalence in this new paradigm, is the advent of Halting Complete Algorithms.
 
 ## Findings
-* **Logical Conceptualism** - Logic that is capable of explaining the higher orders of logic and that of recursive logic. Organized by sets of concepts and made testable via the unified format that is programming.
-* **Unified Conceptual Science** - The rediscovery of the original attempt to unify the whole of science. Now placing the emphasis on concepts, as the classic understanding was thought that concepts were not testable in reality and an impossible pursuit at the time.
-* **The Unified Turing Machine** - A new Turing Machine that utilizes a conceptual deck/set system, and where each symbol loaded is a pairing of verbose logic and its programmed implementation represented as a quality. Similar to Total Functional Programming, this machine limits the finite set of symbols utilized by the machine to be those known to be halting.
-* **Autonomous Baseline Intelligence** - One specific implementation of the "Unified Turing Machine," that represents a clockwork form of intelligence that may be atomically deployed with a specific set of instructions.
-* **FaaOS** Function as a Operating System, since each conceptual deck is designed with its own routing and provable termination, this allows for a single function to represent that classic operating system. Inspired by the programming language Smalltalk, which placed emphasis on a cellular means of programing with cells passing messages between one another. Except here is a series of FaaOS that formalize a greater OS via their connected parts.
+* **The Qualitivication Glitch** - Qualitivication is a symmetrical system of reasoning to Quantification. Which is merely the "Artist's Eye," unified into a single word, but is overridden due to the similar phonetic of Qualification. Where in the originating latin, Qualitas and Qualificare (Medieval Latin) or Determinare (Classical Latin). Directly implies Qualification despite the phonetic is a distinct concept from quality or the direct process of determining such.
+* **The Law of Abstraction** - Traditionally higher levels of abstractions are treated as finding greater truths. Through entropy we demonstrate that the current understanding of abstraction is incomplete, and ignores information loss entropy imposes. (Form -> Concept -> Construct -> Opinion (Conluxus) -> Hallucination (Consine) -> Delusion (Condelu))
+* **Muxification** - An emergent form of reasoning that formalizes the precise measurement of Concepts. Muxification is the Multiplex of Quantification and Qualitivication. Unlike Unification, accounts for the information lost in Abstraction, merely by maintaining a taxonomy and grading of Concepts. (Car + Flight = Flying Car)
+* **Stratimux** - A new frontier subject that utilizes recursive higher order logic organized via concepts. That introduces a new advanced equation called the Muxium. 
+* **The Muxified Turing Machine** - A new Turing Machine that utilizes a conceptual deck/set system, and where each symbol loaded is a pairing of verbose qualitative symbolic logic and its programmed quantitative implementation, formalized as a Quality. Similar to Total Functional Programming, this machine classifies the finite set of symbols utilized by the machine to be those known to be halting as Logically Consistent.
+* **Formaticism** - Is a new Marketplace as a Product, informed by the composability Stratimux and the Muxium brings to the table. Designed specifically to handle the advent of Hyper Personalization enabling a Positive Sums Marketplace via Unlimited Exploration and attribution to its contributors.
+* **Phuire Postulate** - Extending Euclid's Postulates. Phuire is a Single Unique Point entangling many other Unique Points. Where the Universe would be a Unique Point entangling all that is Associated to Itself.
 
-## The Power of Logically defined Concepts
-No matter how complicated the world gets. It would be difficult to find a simpler abstraction than, Car + Plant = Flying Car. The method of organizing testable concepts and the greater than the sums orchestration of their qualities. Allows this to be possible and would be considered a new Unified Conceptual Formula and the literal mechanism that allows for the Unified Turing Machine to operate. The difference between generative intelligence, and this format. Is the entire how of that formula be generated and returned upon request.
 
-If we push this to an extreme. What would "Earth at Present Day" be equal to? And how might we use that as a pursuit to formalize a set of concepts that would represent that as well balanced equation? That we could use either "Earth at Present Day," or the yet unknown Set of Concepts can accurately represent it and load that into a powerful Unified Turing Machine, that it would create a Simulation of Earth at Present Day, then simply change Present Day to a specific Day. 
-
-What about "Earth on the Next Day?"
 ## For every mountain top, the next comes into view.
-This technological singularity that Artificial Intelligence represents is not the first humanity has experienced. Looking back we can note pivots in human understanding such as the printing press, industrial revolution, and internet as their own technological singularities that changed the fabric of society. And ultimately resulted in a new complexity of scales that brought new benefits and altered the rules of civilization to afford for the increase of productivity that these innovations created. That productivity is merely energy or entropy as it is the description of some movement.
+This technological singularity that Artificial Intelligence represents is not the first humanity has experienced. Looking back we can note pivots in human understanding such as the printing press, industrial revolution, and internet as clear examples of previous technological singularities.
+
+Which merely constituted in a new scale of complexity that brought new benefits. Allowing for civilization to afford for the increase of productivity that these innovations. Is just us as a civilization moving beyond mythical notions to understand the specifics of the reality we all emerged into.
 
 ## Public Releases
 ![Stratimux](https://github.com/Phuire-Research/Stratimux/blob/main/Stratimux.png?raw=true)
 
-* [Stratimux](https://github.com/Phuire-Research/Stratimux) - A Nodejs Graph Programming Framework and first implementation of the Unified Turing Machine.
+* [Stratimux Framework](https://github.com/Phuire-Research/Stratimux) - A Nodejs Graph Programming Framework and first implementation of the Muxified Turing Machine.
 * [Huirth](https://github.com/Phuire-Research/Huirth) - POC Function as a Operating System (FaaOS), designed for the embodiment of AI.
 * [PURF](https://github.com/Phuire-Research/PURF) - White Paper for the safe recursive improvement of AI and current mission of this research organization.
