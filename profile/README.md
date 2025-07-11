@@ -1,5 +1,5 @@
 ## [PhuirE](https://www.phuire.org/)
-This organization is currently preparing to build out and release a scientific research platform to reinforce safety and acceleration of AI via the advent of Formaticism. An inherit Positive Sums Marketplace based on Hyper Personalization.
+This organization is currently preparing to build out and release a scientific research platform to reinforce safety and acceleration of AI via the advent of Formatic Capitalism. An inherit Positive Sums Marketplace based on Hyper Personalization and Utilization Metrics.
 
 ---
 ## The Power of Logically defined Concepts
