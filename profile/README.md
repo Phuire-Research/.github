@@ -16,6 +16,7 @@ The Muxium is formalized as a literal mechanism that allows for the Muxified Tur
 Where the prior axiom would be considered the title of a Muxium representing the next tier of understanding and proving the axiom itself.
 
 ## Findings
+* **Bidirectional Higher Order Logic** - Proven via the Stratimux Theorems and the actualization of the Muxified Turing Machine that solves the Halting Problem by way of category.
 * **The Qualitivication Glitch** - Qualitivication is a symmetrical system of reasoning to Quantification, which is merely the "Artist's Eye" unified into a single word, but is overridden due to the similar phonetic of Qualification. Wherein the originating Latin, Qualitas and Qualificare (Medieval Latin) or Determinare (Classical Latin), directly implies Qualification despite the phonetic is a distinct concept from quality or the direct process of determining such.
 * **Anor** - The And, Or, Everything-In-Between of some range of numbers, qualities, anor concepts. Green is within the anor of blue anor yellow and is an inclusive association of the nearest range of a defined order by priority or spatial measurement of phenomena.
 * **The Law of Abstraction** - Traditionally, higher levels of abstractions are treated as finding greater truths. Through entropy we demonstrate that the current understanding of abstraction is incomplete and ignores information loss entropy imposes. (Form → Concept → Construct → Opinion (Conluxus) → Hallucination (Consine) → Delusion (Condelu))
