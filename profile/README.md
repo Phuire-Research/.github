@@ -3,9 +3,6 @@
 ## [PhuirE](https://www.phuire.org/)
 This organization is currently preparing to build out and release a scientific research platform to reinforce safety and acceleration of AI via the advent of Formatic Capitalism. An inherent Positive Sums Marketplace based on Hyper Personalization and Utilization Metrics.
 
-### [UnHex Movement](https://UnHex.org/)
-Upon the breakthrough discovery of greater value within the binary that encodes all of our communication, computation, and affects each of our daily lives, we demonstrate the Formatic advent of the Error Correction and Precision Marketplace. Wherein we can reclaim space once thought maximized to its fullest potential, finding greater value within the same amount of space. Proof of Concept of the inherent Positive Sums quality of our emergent existence.
-
 ---
 
 ## The Power of Logically Defined Concepts
