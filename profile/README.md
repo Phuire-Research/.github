@@ -1,4 +1,4 @@
-# PhuirE Research Organization
+# PhuirE Research
 
 ## Mission
 To Advance Post-Ontological Frontier Research. While preparing to build out and release a scientific research platform to reinforce safety and acceleration of AI through ARIOS (Augmented Renewable Intelligence Operating System). Orchestrated via the Stratimux Concept Program an SCP a recursively improving program. That enables a purposefully crafted Positive Sums Marketplace based on Hyper Personalization of SCPs and Contributor Utilization Rewards through a Knowledge Net Meter. Learn More @ [SCP-Origin](https://scp-orgin.com/)
