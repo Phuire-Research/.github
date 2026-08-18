@@ -8,7 +8,7 @@ To Advance Post-Ontological Frontier Research. While preparing to build out and 
 ## The Power of Logically Defined Concepts
 No matter how complicated the world gets, it would be difficult to find a simpler abstraction than: Car + Flight = Flying Car.
 
-The Muxium is a formalized Turing Machine that solves it's own halting problem. That maintains a finite halting symbol set that is composed of concepts and is scheduled within a recursively bounded function that jumps to the form described. Enabling a field of unlimited exploration via the combinational power of muxified concepts. A muxified concept, is a composition of concepts that formalize a new concept while the composed concepts retain their original identity.
+The Muxium is a Functional Turing Machine that solves it's own halting problem. That maintains a finite halting symbol set that is composed of concepts and is scheduled within a recursively bounded function that jumps to the form described. Enabling a field of unlimited exploration via the combinational power of muxified concepts. A muxified concept, is a composition of concepts that formalize a new concept while the composed concepts retain their original identity.
 
 ## Research
 * **Stratidia - Bidirectional Higher Order Logic** - Two points can be correlated via an edge. Where that edge confers that both points share a similarity. That can then correspond to other points, so long as those points share an edge of similarity to the differences of the set.
