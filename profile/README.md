@@ -36,8 +36,8 @@ The breakthrough that Ontological Language Models (Marketed LLMs) represents is 
 ## Public Releases
 ![Stratimux](https://github.com/Phuire-Research/Stratimux/blob/main/Stratimux.png?raw=true)
 * [Stratimux Framework](https://github.com/Phuire-Research/Stratimux) - A Node.js Graph Programming Framework and first implementation of the Muxified Turing Machine.
-* [Muxate](https://github.com/Phuire-Research/Round8) - Spatial Coordinate Number System and Base-72 Native Binary Replacement. Which exceeds uni-directional bitwise informed binary encodings for unsigned 7-14% depending on bit alignment and 214% when signed. Why the variance? Not a byte aligned system and uses a 3 bit register for its encoding that is conferred.
 * [Suite Cascade System](https://github.com/Phuire-Research/SuiteCascadeSystem/) - ARIOS (Augmented Renewable Intelligence Operating System) A Methodology as Operating System designed to Augment Developers by practicing Stratianorification.
+* [Muxate](https://github.com/Phuire-Research/Round8) - Spatial Coordinate Number System and Base-72 Native Binary Replacement. Which exceeds uni-directional bitwise informed binary encodings for unsigned 7-14% depending on bit alignment and 214% when signed. Why the variance? Not a byte aligned system and uses a 3 bit register for its encoding that is conferred.
 
 ## What is Renewable Intelligence
 Whenever we remember a memory, it changes ever so slightly. Renewable Intelligence is the improvement of memory by way of understanding. As by continuously measuring and testing our understanding. We may strengthen the foundation of our memories as they interact with the world around us. As our memories themselves are composed of concepts. So by attending to the understanding of the concepts that govern our lives. The composition of a memory can be indirectly reinforced and provide new insights upon recall as our ever changing focus renews as they resurface.
